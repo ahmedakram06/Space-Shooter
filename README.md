@@ -19,7 +19,7 @@ Space Shooter is a classic 2D console-based shooting game written in C++. It fea
 
 # Controls
 
-A - Move left
-D	- Move right
-Space -	Fire bullet
-S	- Pause / Stop
+- A - Move left
+- D	- Move right
+- Space -	Fire bullet
+- S	- Pause / Stop
